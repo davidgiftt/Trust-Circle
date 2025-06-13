@@ -20,8 +20,3 @@ Trust Circle is a community-driven lending platform that enables financially exc
 ##  Folder Structure
 See project root for full breakdown.
 
-##  Setup
-```bash
-git clone https://github.com/your-username/trust-circle
-cd trust-circle
-# Setup backend + frontend instructions here
